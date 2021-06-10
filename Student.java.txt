@@ -9,6 +9,7 @@ System.out.println("hi boss");
 
 
   Sysout.out.println(3*6);
+System.out.println("i am fine");
 
 }
 
